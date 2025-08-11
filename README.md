@@ -25,8 +25,7 @@ pip (Python package installer)
 Installation
 Clone the repository to your local machine:
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/rajicodez/AI-Powered-Interviewer
 
 Install the required Python libraries using the requirements.txt file:
 
@@ -39,7 +38,7 @@ Run the Streamlit application from your terminal:
 
 streamlit run app.py
 
-Your default web browser will open a new tab with the application. Click the "🚀 Start Interview" button to begin the analysis.
+Your default web browser will open a new tab with the application. Click the "Start Interview" button to begin the analysis.
 
 Credits
 This project was developed using the following open-source libraries:
