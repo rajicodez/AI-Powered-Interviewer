@@ -1,0 +1,8 @@
+streamlit
+opencv-python-headless
+deepface==0.0.91
+sounddevice
+pydub
+scipy
+SpeechRecognition
+numpy==1.26.4
